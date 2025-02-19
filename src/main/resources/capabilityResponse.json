@@ -1,0 +1,84 @@
+{
+  "capability": [
+    {
+      "dataProductType": 8,
+      "containerType": 0,
+      "productSchemaUrl": "http://iho.com/S-124/1/0/0",
+      "serviceVersion": "1.0",
+      "implementedInterfaces": {
+        "upload": true,
+        "uploadLink": true,
+        "get": false,
+        "getByLink": false,
+        "getSummary": false,
+        "subscription": false,
+        "access": false,
+        "encryptionKey": true
+      }
+    },
+    {
+      "dataProductType": 24,
+      "containerType": 0,
+      "productSchemaUrl": "http://cirm.org/rtz/RTZ%20Schema%20version%201_2.xsd",
+      "serviceVersion": "1.0",
+      "implementedInterfaces": {
+        "upload": true,
+        "uploadLink": true,
+        "get": true,
+        "getByLink": true,
+        "getSummary": true,
+        "subscription": true,
+        "access": true,
+        "encryptionKey": true
+      }
+    },
+    {
+      "dataProductType": 23,
+      "containerType": 0,
+      "productSchemaUrl": "http://iho.com/S-421/1/0/0",
+      "serviceVersion": "1.0",
+      "implementedInterfaces": {
+        "upload": true,
+        "uploadLink": true,
+        "get": true,
+        "getByLink": true,
+        "getSummary": true,
+        "subscription": true,
+        "access": true,
+        "encryptionKey": true
+      }
+    },
+    {
+      "dataProductType": 24,
+      "containerType": 0,
+      "productSchemaUrl": "http://cirm.org/rtz/RTZ%20Schema%20version%201_0.xsd",
+      "serviceVersion": "1.0",
+      "implementedInterfaces": {
+        "upload": true,
+        "uploadLink": true,
+        "get": true,
+        "getByLink": true,
+        "getSummary": true,
+        "subscription": true,
+        "access": true,
+        "encryptionKey": true
+      }
+    },
+    {
+      "dataProductType": 24,
+      "containerType": 0,
+      "productSchemaUrl": "http://cirm.org/rtz/RTZ%20Schema%20version%201_1.xsd",
+      "serviceVersion": "1.0",
+      "implementedInterfaces": {
+        "upload": true,
+        "uploadLink": true,
+        "get": true,
+        "getByLink": true,
+        "getSummary": true,
+        "subscription": true,
+        "access": true,
+        "encryptionKey": true
+      }
+    }
+  ]
+}
